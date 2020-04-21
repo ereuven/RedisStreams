@@ -1,0 +1,5 @@
+D:\Dev\RedisStreamsSample\Core\bin\Debug\Core.dll
+D:\Dev\RedisStreamsSample\Core\bin\Debug\Core.pdb
+D:\Dev\RedisStreamsSample\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\Dev\RedisStreamsSample\Core\obj\Debug\Core.dll
+D:\Dev\RedisStreamsSample\Core\obj\Debug\Core.pdb
